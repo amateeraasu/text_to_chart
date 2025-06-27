@@ -1,2 +1,1 @@
-# text_to_chart
-LLM
+Hands-on Lab: Generative AI for Data Visualization 
